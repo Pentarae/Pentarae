@@ -1,3 +1,4 @@
+
 # Ma‘een | مَعين  
 
 Awareness project about inclusive education for children and youth with disabilities using visual design.  
@@ -27,6 +28,64 @@ This project transforms complex educational and accessibility ideas into **visua
 
 ---
 
+## Work Plan  
+
+1. **Research & Analysis**  
+   - Audience personas  
+   - Competitor analysis  
+   - Moodboard  
+
+2. **Visual Identity**  
+   - Logo design  
+   - Color palette & typography  
+   - Style guide  
+
+3. **Main Designs**  
+   - Poster  
+   - Tri-fold brochure  
+   - Social media carousel  
+   - Merchandising (t-shirt, mug, tote bag)  
+
+4. **Complementary Products**  
+   - Flash cards with QR codes  
+   - Activity book (sample pages)  
+   - Educational puzzle/game mockup  
+
+5. **Review & Finalization**  
+   - Team review and improvements  
+   - Export & delivery specs  
+
+6. **Final Presentation**  
+   - Behance-style portfolio  
+   - Presentation PDF  
+   - Upload to GitHub  
+
+---
+
+## Roles & Responsibilities  
+
+- **إبتسام عاطف (Team Leader)**  
+  - Primary: Personas, Logo, Activity Book  
+  - Secondary: Moodboard, Poster, Final Presentation, GitHub  
+
+- **ولاء سالم**  
+  - Primary: Competitor Analysis, Colors & Typography, Brochure  
+  - Secondary: Personas, Flash Cards, Style Guide, Digital Export  
+
+- **نورا عبدالله**  
+  - Primary: Moodboard, Carousel, Flash Cards  
+  - Secondary: Competitor Analysis, Logo, Puzzle  
+
+- **دعاء عباس**  
+  - Primary: Poster, Puzzle/Game Mockup, Digital Delivery & Export Specs  
+  - Secondary: Colors & Typography, Merch  
+
+- **إسراء محمد**  
+  - Primary: Style Guide, Merch, Final Presentation, GitHub  
+  - Secondary: Brochure, Carousel, Activity Book  
+
+---
+
 ## Instructor  
 
 - **Eng. Mohamed Kamar**  
@@ -39,5 +98,3 @@ You can find the full project files here:
 [📂 Google Drive Link](https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing)
 
 ---
-
-
