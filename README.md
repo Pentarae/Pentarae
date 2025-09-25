@@ -24,7 +24,7 @@ This project transforms complex educational and accessibility ideas into **visua
 - إسراء محمد عطا الله  
 - دعاء عباس السعيد عباس  
 - نورا عبدالله أحمد عبدالله  
-- ولاء محمد فودو سالم  
+- ولاء محمد فوده سالم  
 
 ---
 
