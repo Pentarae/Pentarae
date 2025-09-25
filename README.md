@@ -98,3 +98,18 @@ You can find the full project files here:
 [📂 Google Drive Link](https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing)
 
 ---
+
+## License  
+
+This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+
+You are free to:  
+- **Share** — copy and redistribute the material in any medium or format.  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
+
+As long as you give **appropriate credit** to the creators:  
+**pentaRae Team – Ma‘een Project (2025)**  
+
+Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
