@@ -1,4 +1,3 @@
-
 # Ma‘een | مَعين  
 
 Awareness project about inclusive education for children and youth with disabilities using visual design.  
@@ -18,44 +17,26 @@ This project transforms complex educational and accessibility ideas into **visua
 
 ---
 
-## Timeline  
-
-- **Start:** 25 August 2025  
-- **End:** 10 December 2025  
-
----
-
 ## Team Members (pentaRae)  
 
-- إبتسام عاطف  
-- ولاء سالم  
-- نورا عبدالله  
-- دعاء عباس  
-- إسراء محمد  
+- إبتسام عاطف عبدالله إسماعيل  
+- إسراء محمد عطا الله  
+- دعاء عباس السعيد عباس  
+- نورا عبدالله أحمد عبدالله  
+- ولاء محمد فودو سالم  
 
 ---
 
-## Roles & Responsibilities  
+## Instructor  
 
-- **إبتسام عاطف (Team Leader)**  
-  - Primary: Personas, Logo, Activity Book  
-  - Secondary: Moodboard, Poster, Final Presentation, GitHub  
+- **Eng. Mohamed Kamar**  
 
-- **ولاء سالم**  
-  - Primary: Competitor Analysis, Colors & Typography, Brochure  
-  - Secondary: Personas, Flash Cards, Style Guide, Digital Export  
+---
 
-- **نورا عبدالله**  
-  - Primary: Moodboard, Carousel, Flash Cards  
-  - Secondary: Competitor Analysis, Logo, Puzzle  
+## Project Files  
 
-- **دعاء عباس**  
-  - Primary: Poster, Puzzle/Game Mockup, Digital Delivery & Export Specs  
-  - Secondary: Colors & Typography, Merch  
-
-- **إسراء محمد**  
-  - Primary: Style Guide, Merch, Final Presentation, GitHub  
-  - Secondary: Brochure, Carousel, Activity Book  
+You can find the full project files here:  
+[📂 Google Drive Link](https://drive.google.com/drive/folders/1jrW-h3rvsHhxA_ArJ7i3d30VUhPmKGn0?usp=sharing)
 
 ---
 
